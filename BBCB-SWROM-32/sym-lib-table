@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "BBC-SWROM-32")(type "KiCad")(uri "${KIPRJMOD}/BBC-SWROM-32.kicad_sym")(options "")(descr ""))
+)
